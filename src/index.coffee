@@ -15,4 +15,4 @@ class GroundStop
     request requestOptions, (err, res, body) ->
       cb err, body
 
-module.exports = GroundStop
+module.exports = new GroundStop()

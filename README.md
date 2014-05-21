@@ -7,14 +7,11 @@ Usage
 =====
 
 ```javascript
-var GroundStop, gs;
+var GroundStop = require('ground-stop');
 
-GroundStop = require('ground-stop');
-gs = new GroundStop();
-
-gs.fetch({airport: 'ORD'}, function(err, status){
+GroundStop.fetch({airport: 'ORD'}, function(err, status){
   // do something interesting
-}
+});
 ```
 
 Development
