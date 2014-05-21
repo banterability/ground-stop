@@ -1,0 +1,22 @@
+{
+  "name": "ground-stop",
+  "version": "0.0.1",
+  "description": "Client for the FAA's Airport Status API",
+  "main": "lib/ground-stop.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/banterability/ground-stop.git"
+  },
+  "keywords": [
+    "faa",
+    "airport",
+    "delay",
+    "airline",
+  ],
+  "author": "Jeff Long",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banterability/ground-stop/issues"
+  },
+  "homepage": "https://github.com/banterability/ground-stop"
+}
