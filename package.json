@@ -1,6 +1,6 @@
 {
   "name": "ground-stop",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Client for the FAA's Airport Status API",
   "main": "lib/index.js",
   "repository": {
