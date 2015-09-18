@@ -2,7 +2,7 @@
   "name": "ground-stop",
   "version": "0.1.1",
   "description": "Client for the FAA's Airport Status API",
-  "main": "lib/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/banterability/ground-stop.git"
@@ -21,8 +21,5 @@
   "homepage": "https://github.com/banterability/ground-stop",
   "dependencies": {
     "request": "^2.36.0"
-  },
-  "devDependencies": {
-    "coffee-script": "^1.7.1"
   }
 }

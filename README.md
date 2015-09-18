@@ -13,8 +13,3 @@ GroundStop.fetch({airport: 'ORD'}, function(err, status){
   // do something interesting
 });
 ```
-
-Development
-===========
-
-Rebuild from CoffeeScript source with `make build`.
