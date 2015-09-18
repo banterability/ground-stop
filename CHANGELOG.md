@@ -1,3 +1,7 @@
+0.1.2
+-----
+* Remove Coffeescript intermediate source
+
 0.1.1
 ------
 * Return error for non-200 responses
